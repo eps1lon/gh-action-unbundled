@@ -1,0 +1,5 @@
+name: 'Hello World Action'
+description: 'A local action that runs main.js'
+runs:
+  using: 'node20'
+  main: 'main.js'
